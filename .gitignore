@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+server.out.log
+server.err.log
+*.log
+
+.env
+.DS_Store
+Thumbs.db
+
+# The unpacked shapefile folder is tracked; this duplicate archive is not needed.
+*.zip

@@ -1,0 +1,4 @@
+Open dashboard on this computer at: http://127.0.0.1:5000
+Open dashboard from another device on this network at: http://160.114.165.46:5000
+ * Serving Flask app 'app'
+ * Debug mode: on
